@@ -14,7 +14,7 @@ import AI from './pages/AI';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gradient-to-br from-ocean-50 via-sand-50 to-coral-100">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-blue-100">
         <Header />
         <main>
           <Routes>
